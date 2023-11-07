@@ -1,0 +1,13 @@
+2. Explain the purpose of comments in HTML and provide an example of how to use coments in an HTML document?
+
+Solution: Comments are generally a small notes which we can use inside our code to explain what we are doing. It is not visible to our webpage but it can be very helpful if someone reads our code.
+
+4. Write a short note on tag and element with an example?
+Solution: HTML tags are written in angular bracket <> i.e. h1, h2, p, div, span etc. that defines the structure of web page. It is not direclty displayed on web page. Whereas HTML elements are the content between opening and closing HTML tags. It is direclty displayed on web browsers.  
+
+5. What is the DOCTYPE declaration in HTML?
+Solution: It is a declation we use at the begging of HTML code. It declares that the specified code or file is HTML file. It informs browser type of code and helps in rendering codes. 
+In HTML5 it is not mandatory to declare but it is good practice to declare. We can declare HTML DOCTYPE as
+<!DOCTYPE html>
+
+
